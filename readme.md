@@ -1,13 +1,13 @@
 ## Setup
 
-**run> npm i
+#### run> npm i
 
 ## Usage
 
-#### App
+### App
 
-**run> npm start
+#### run> npm start
 
-#### Tests
+### Tests
 
-**run> npm run test
+#### run> npm run test
